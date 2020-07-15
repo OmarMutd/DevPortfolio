@@ -1,0 +1,5 @@
+- Add Tool Tips
+- Closing Side Drawer
+- Use your photos
+- Inspiration from An/Progressive etc.
+- Opacity hover effect 
