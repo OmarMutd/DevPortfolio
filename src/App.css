@@ -111,6 +111,12 @@
    padding-right: 5rem;
  }
 
+ .resume-right-col {
+   background: #27221F;
+   color: white;
+   padding: 2em;
+ }
+
  @media only screen and (min-width: 600px) {
    .projects-grid {
      display: flex;
